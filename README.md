@@ -1,0 +1,3 @@
+This will be documented soon...
+
+See also [LoadSass](https://gitlab.com/nette-extensions/loadsass).

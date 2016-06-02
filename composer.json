@@ -1,0 +1,19 @@
+{
+	"name": "sw2/load-js",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Lukas Povoda",
+			"email": "lupo112@gmail.com"
+		}
+	],
+	"require": {
+		"sw2/load": "~0.9",
+		"mrclay/minify": "^2.2"
+	},
+	"autoload": {
+		"psr-0": {
+			"Sw2\\JsLoad\\": "src/"
+		}
+	}
+}
