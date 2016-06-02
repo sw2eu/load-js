@@ -8,7 +8,7 @@
 		}
 	],
 	"require": {
-		"sw2/load": "~0.9",
+		"sw2eu/load-common": "~0.9",
 		"mrclay/minify": "^2.2"
 	},
 	"autoload": {
