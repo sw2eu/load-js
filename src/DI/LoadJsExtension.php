@@ -1,18 +1,18 @@
 <?php
 
-namespace Sw2\JsLoad\DI;
+namespace Sw2\LoadJs\DI;
 
 use Nette;
-use Sw2\JsLoad\JsCompiler;
-use Sw2\JsLoad\JsMacros;
-use Sw2\Load\LoadExtension;
+use Sw2\Load\DI\LoadExtension;
+use Sw2\LoadJs\JsCompiler;
+use Sw2\LoadJs\JsMacros;
 
 /**
  * Class JsLoadExtension
  *
  * @package Sw2\JsLoad
  */
-class JsLoadExtension extends LoadExtension
+class LoadJsExtension extends LoadExtension
 {
 	/** @var array */
 	public $defaults = [

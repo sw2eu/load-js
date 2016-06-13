@@ -1,12 +1,12 @@
 <?php
 
-namespace Sw2\JsLoad;
+namespace Sw2\LoadJs;
 
 use JSMin;
 use Nette\Caching\Cache;
 use Nette\Utils\Strings;
+use Sw2\Load\DI\LoadExtension;
 use Sw2\Load\ICompiler;
-use Sw2\Load\LoadExtension;
 
 /**
  * Class JsCompiler

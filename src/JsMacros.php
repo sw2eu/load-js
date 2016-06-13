@@ -1,6 +1,6 @@
 <?php
 
-namespace Sw2\JsLoad;
+namespace Sw2\LoadJs;
 
 use Latte\Compiler;
 use Latte\MacroNode;
