@@ -1,3 +1,4 @@
 This will be documented soon...
 
-See also [LoadSass](https://gitlab.com/nette-extensions/loadsass).
+See also [LoadFont](https://github.com/sw2eu/load-font).
+See also [LoadSass](https://github.com/sw2eu/load-sass).
